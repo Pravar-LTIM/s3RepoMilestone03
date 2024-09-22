@@ -32,7 +32,7 @@
     </style>
 </head>
 <body>
-
+<h1> hello world</h1>
 <div class="registration-container">
 <h2 class="registration-heading">DevOps Project August-2024 ==> Pravar More.</h2>
     <h2 class="registration-heading">Registration Details</h2>
